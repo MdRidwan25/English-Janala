@@ -1,4 +1,4 @@
-Live Link: <a href="https://mdridwan25.github.io/English-Janala/">English Janala</a>
+<h1> Live Link: <a href="https://mdridwan25.github.io/English-Janala/">English Janala</a></h1>
 
 # ENGLISH <img width="25px" src="./assets/logo.png" /> JANALA
 
